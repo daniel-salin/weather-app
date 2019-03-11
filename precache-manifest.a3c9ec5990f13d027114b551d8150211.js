@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6c0d3e37b670e3c7a538",
+    "revision": "2d922859486854f5da31",
     "url": "/daniel-salin/weather-app.git/static/css/main.95137063.chunk.css"
   },
   {
-    "revision": "6c0d3e37b670e3c7a538",
-    "url": "/daniel-salin/weather-app.git/static/js/main.023723ff.chunk.js"
+    "revision": "2d922859486854f5da31",
+    "url": "/daniel-salin/weather-app.git/static/js/main.ed92c3a9.chunk.js"
   },
   {
     "revision": "749aff2072ffe846acb3",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/daniel-salin/weather-app.git/static/js/2.e39fc329.chunk.js"
   },
   {
-    "revision": "ba9654c92edc3579b524e9c0021fcdc2",
+    "revision": "e103fa2e457257a236c02f7c7ff7b283",
     "url": "/daniel-salin/weather-app.git/index.html"
   }
 ];
