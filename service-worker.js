@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://daniel-salin.github.io/weather-app/precache-manifest.6e5480f5fc884c57f1712de81e9bbc3a.js"
+  "https://daniel-salin.github.io/weather-app/precache-manifest.686415806e11242e2dadf6a200cd3647.js"
 );
 
 workbox.clientsClaim();
