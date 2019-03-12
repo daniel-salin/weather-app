@@ -1,13 +1,13 @@
 {
-  "main.css": "/weather-app/static/css/main.95137063.chunk.css",
-  "main.js": "/weather-app/static/js/main.6aef15ff.chunk.js",
-  "main.js.map": "/weather-app/static/js/main.6aef15ff.chunk.js.map",
-  "runtime~main.js": "/weather-app/static/js/runtime~main.02d38d5d.js",
-  "runtime~main.js.map": "/weather-app/static/js/runtime~main.02d38d5d.js.map",
-  "static/js/2.e39fc329.chunk.js": "/weather-app/static/js/2.e39fc329.chunk.js",
-  "static/js/2.e39fc329.chunk.js.map": "/weather-app/static/js/2.e39fc329.chunk.js.map",
-  "index.html": "/weather-app/index.html",
-  "precache-manifest.d330c4e0beb565b74ae17d3ed542d865.js": "/weather-app/precache-manifest.d330c4e0beb565b74ae17d3ed542d865.js",
-  "service-worker.js": "/weather-app/service-worker.js",
-  "static/css/main.95137063.chunk.css.map": "/weather-app/static/css/main.95137063.chunk.css.map"
+  "main.css": "/daniel-salin/weather-app.git/static/css/main.95137063.chunk.css",
+  "main.js": "/daniel-salin/weather-app.git/static/js/main.5d3ad28e.chunk.js",
+  "main.js.map": "/daniel-salin/weather-app.git/static/js/main.5d3ad28e.chunk.js.map",
+  "runtime~main.js": "/daniel-salin/weather-app.git/static/js/runtime~main.ee71e184.js",
+  "runtime~main.js.map": "/daniel-salin/weather-app.git/static/js/runtime~main.ee71e184.js.map",
+  "static/js/2.e39fc329.chunk.js": "/daniel-salin/weather-app.git/static/js/2.e39fc329.chunk.js",
+  "static/js/2.e39fc329.chunk.js.map": "/daniel-salin/weather-app.git/static/js/2.e39fc329.chunk.js.map",
+  "index.html": "/daniel-salin/weather-app.git/index.html",
+  "precache-manifest.99dc0eff4a955a0fc2c6eab6b4aff9bf.js": "/daniel-salin/weather-app.git/precache-manifest.99dc0eff4a955a0fc2c6eab6b4aff9bf.js",
+  "service-worker.js": "/daniel-salin/weather-app.git/service-worker.js",
+  "static/css/main.95137063.chunk.css.map": "/daniel-salin/weather-app.git/static/css/main.95137063.chunk.css.map"
 }
