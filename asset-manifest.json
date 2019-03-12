@@ -1,13 +1,13 @@
 {
   "main.css": "https://daniel-salin.github.io/weather-app/static/css/main.95137063.chunk.css",
-  "main.js": "https://daniel-salin.github.io/weather-app/static/js/main.3b37faa5.chunk.js",
-  "main.js.map": "https://daniel-salin.github.io/weather-app/static/js/main.3b37faa5.chunk.js.map",
+  "main.js": "https://daniel-salin.github.io/weather-app/static/js/main.4145bc16.chunk.js",
+  "main.js.map": "https://daniel-salin.github.io/weather-app/static/js/main.4145bc16.chunk.js.map",
   "runtime~main.js": "https://daniel-salin.github.io/weather-app/static/js/runtime~main.bcaf50e0.js",
   "runtime~main.js.map": "https://daniel-salin.github.io/weather-app/static/js/runtime~main.bcaf50e0.js.map",
   "static/js/2.e39fc329.chunk.js": "https://daniel-salin.github.io/weather-app/static/js/2.e39fc329.chunk.js",
   "static/js/2.e39fc329.chunk.js.map": "https://daniel-salin.github.io/weather-app/static/js/2.e39fc329.chunk.js.map",
   "index.html": "https://daniel-salin.github.io/weather-app/index.html",
-  "precache-manifest.5be14e042ee34125e28992d099bb3399.js": "https://daniel-salin.github.io/weather-app/precache-manifest.5be14e042ee34125e28992d099bb3399.js",
+  "precache-manifest.6e5480f5fc884c57f1712de81e9bbc3a.js": "https://daniel-salin.github.io/weather-app/precache-manifest.6e5480f5fc884c57f1712de81e9bbc3a.js",
   "service-worker.js": "https://daniel-salin.github.io/weather-app/service-worker.js",
   "static/css/main.95137063.chunk.css.map": "https://daniel-salin.github.io/weather-app/static/css/main.95137063.chunk.css.map"
 }
