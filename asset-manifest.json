@@ -1,13 +1,13 @@
 {
-  "main.css": "https://daniel-salin.github.io/weather-app/static/css/main.95137063.chunk.css",
-  "main.js": "https://daniel-salin.github.io/weather-app/static/js/main.e573e936.chunk.js",
-  "main.js.map": "https://daniel-salin.github.io/weather-app/static/js/main.e573e936.chunk.js.map",
-  "runtime~main.js": "https://daniel-salin.github.io/weather-app/static/js/runtime~main.bcaf50e0.js",
-  "runtime~main.js.map": "https://daniel-salin.github.io/weather-app/static/js/runtime~main.bcaf50e0.js.map",
-  "static/js/2.9fd907e3.chunk.js": "https://daniel-salin.github.io/weather-app/static/js/2.9fd907e3.chunk.js",
-  "static/js/2.9fd907e3.chunk.js.map": "https://daniel-salin.github.io/weather-app/static/js/2.9fd907e3.chunk.js.map",
-  "index.html": "https://daniel-salin.github.io/weather-app/index.html",
-  "precache-manifest.686415806e11242e2dadf6a200cd3647.js": "https://daniel-salin.github.io/weather-app/precache-manifest.686415806e11242e2dadf6a200cd3647.js",
-  "service-worker.js": "https://daniel-salin.github.io/weather-app/service-worker.js",
-  "static/css/main.95137063.chunk.css.map": "https://daniel-salin.github.io/weather-app/static/css/main.95137063.chunk.css.map"
+  "main.css": "/daniel-salin/weather-app.git/static/css/main.95137063.chunk.css",
+  "main.js": "/daniel-salin/weather-app.git/static/js/main.9bee7314.chunk.js",
+  "main.js.map": "/daniel-salin/weather-app.git/static/js/main.9bee7314.chunk.js.map",
+  "runtime~main.js": "/daniel-salin/weather-app.git/static/js/runtime~main.ee71e184.js",
+  "runtime~main.js.map": "/daniel-salin/weather-app.git/static/js/runtime~main.ee71e184.js.map",
+  "static/js/2.9fd907e3.chunk.js": "/daniel-salin/weather-app.git/static/js/2.9fd907e3.chunk.js",
+  "static/js/2.9fd907e3.chunk.js.map": "/daniel-salin/weather-app.git/static/js/2.9fd907e3.chunk.js.map",
+  "index.html": "/daniel-salin/weather-app.git/index.html",
+  "precache-manifest.97f43202819b869dceb19d963d5ee430.js": "/daniel-salin/weather-app.git/precache-manifest.97f43202819b869dceb19d963d5ee430.js",
+  "service-worker.js": "/daniel-salin/weather-app.git/service-worker.js",
+  "static/css/main.95137063.chunk.css.map": "/daniel-salin/weather-app.git/static/css/main.95137063.chunk.css.map"
 }
