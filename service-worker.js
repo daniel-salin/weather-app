@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/daniel-salin/weather-app.git/precache-manifest.99dc0eff4a955a0fc2c6eab6b4aff9bf.js"
+  "https://daniel-salin.github.io/weather-app/precache-manifest.5be14e042ee34125e28992d099bb3399.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/daniel-salin/weather-app.git/index.html", {
+workbox.routing.registerNavigationRoute("https://daniel-salin.github.io/weather-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
